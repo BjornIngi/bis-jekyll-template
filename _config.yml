@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Judy Fong's blog
-email: blog@judyyfong.xyz
+title: Bjorn blog
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my blog to talk about various interests.
-baseurl: "/gh-pages-jekyll-template/" # the subpath of your site, e.g. /blog
-url: "https://org-something.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  This is.
+baseurl: "/bis-jekyll-template/" # the subpath of your site, e.g. /blog
+url: "https://bjorn-ingi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: GFM
-github_username:  judyfong
+github_username:  bjorn-ingi
 show_excerpts: yes
 
 # Build settings
